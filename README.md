@@ -3,7 +3,6 @@
 <h3 align="center">Developer from Macedonia</h3>
 (img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qwexzy" alt="qwexzy" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
